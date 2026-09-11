@@ -34,6 +34,12 @@
             "value" : "%@ dB"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -184,6 +190,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@%%"
@@ -344,6 +356,12 @@
             "value" : "Alarm"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alert"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -488,6 +506,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto"
@@ -640,6 +664,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Batteriefüllung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battery level"
           }
         },
         "es" : {
@@ -947,6 +977,12 @@
             "value" : "Verbunden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connected"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1090,6 +1126,12 @@
             "value" : "Verbinden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connecting"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1231,6 +1273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verbindungs LED"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connection LED"
           }
         },
         "es" : {
@@ -1382,6 +1430,12 @@
             "value" : "Verbindungsüberwachung"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connection Monitoring"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1529,6 +1583,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verbindungsstatus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connection State"
           }
         },
         "es" : {
@@ -1686,6 +1746,12 @@
             "value" : "Verbindungsvibration"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connection Vibration"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1833,6 +1899,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gerät"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device"
           }
         },
         "es" : {
@@ -1990,6 +2062,12 @@
             "value" : "Geräte"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Devices"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2145,6 +2223,12 @@
             "value" : "Getrennt"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disconnected"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2286,6 +2370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "trennen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disconnecting"
           }
         },
         "es" : {
@@ -2441,6 +2531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gerät finden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Device"
           }
         },
         "es" : {
@@ -2599,6 +2695,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Firmware"
@@ -2765,6 +2867,12 @@
             "value" : "Frequenz"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequency"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2926,6 +3034,12 @@
             "value" : "Lade RileyLink Statistiken"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get RileyLink Statistics"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3079,6 +3193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lade Statistiken…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Statistics…"
           }
         },
         "es" : {
@@ -3242,6 +3362,12 @@
             "value" : "rote LED leuchtet"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lighten Red LED"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3395,6 +3521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "gelbe LED leuchtet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lighten Yellow LED"
           }
         },
         "es" : {
@@ -3552,6 +3684,12 @@
             "value" : "Niedrige Batterie-Warnung"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low Battery Alert"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3702,6 +3840,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name"
@@ -3868,6 +4012,12 @@
             "value" : "Aus"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Off"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4009,6 +4159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On"
           }
         },
         "es" : {
@@ -4158,6 +4314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink ermöglicht Kommunikation zur Pumpe über Bluetooth Low Energy."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
           }
         },
         "es" : {
@@ -4321,6 +4483,12 @@
             "value" : "Signalstärke"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signal Strength"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4482,6 +4650,12 @@
             "value" : "Test Befehle"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Commands"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4635,6 +4809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vibrationstest"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Vibration"
           }
         },
         "es" : {
@@ -4792,6 +4972,12 @@
             "value" : "Diagnose LED umschalten"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle Diagnostic LEDs"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4947,6 +5133,12 @@
             "value" : "Ändere Diagnostik LED Modus"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Updating diagnostic LEDs mode"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5100,6 +5292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Betriebszeit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uptime"
           }
         },
         "es" : {
@@ -5261,6 +5459,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spannung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltage"
           }
         },
         "es" : {

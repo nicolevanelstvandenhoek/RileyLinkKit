@@ -22,6 +22,12 @@
             "value" : "Eigenschaftswert war leer"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Characteristic value was empty"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datenvolumen übersteigt die Maximalgröße von %@ Bytes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data exceeded maximum size of %@ bytes"
           }
         },
         "es" : {
@@ -360,6 +372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sicherstellen, dass sich das Gerät in der Nähe befindet, um das Problem automatisch zu beheben"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure the device is nearby, and the issue should resolve automatically"
           }
         },
         "es" : {
@@ -751,6 +769,12 @@
             "value" : "Pumpe antwortet nicht rechtzeitig"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump did not respond in time"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -868,6 +892,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Antwort %@ ist ungültig"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Response %@ is invalid"
           }
         },
         "es" : {
@@ -989,6 +1019,12 @@
             "value" : "RileyLink-Befehl reagierte nicht"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink command did not respond"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1076,6 +1112,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink hat nicht rechtzeitig geantwortet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink did not respond in time"
           }
         },
         "es" : {
@@ -1177,6 +1219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink Firmware unterstützt den Befehl %@ nicht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink firmware does not support the %@ command"
           }
         },
         "es" : {
@@ -1298,6 +1346,12 @@
             "value" : "RileyLink ist beschäftigt"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink is busy"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1385,6 +1439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink ist nicht verbunden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink is not connected"
           }
         },
         "es" : {
@@ -1488,6 +1548,12 @@
             "value" : "RileyLink muss möglicherweise aus- und wieder eingeschaltet werden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink may need to be turned off and back on"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1575,6 +1641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verbindung zu RileyLink wurde vorübergehend unterbrochen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The RileyLink was temporarily disconnected"
           }
         },
         "es" : {
@@ -1828,6 +1900,12 @@
             "value" : "Unbekannte Charakteristik: %@"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown characteristic: %@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1909,6 +1987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unbekannter Dienst: %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown service: %@"
           }
         },
         "es" : {
