@@ -1683,7 +1683,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinding Trilling"
+            "value" : "Verbinding trilling"
           }
         },
         "pl" : {
@@ -2422,7 +2422,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek Apparaat"
+            "value" : "Zoek apparaat"
           }
         },
         "pl" : {
@@ -2881,7 +2881,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink Statistieken Ophalen"
+            "value" : "RileyLink statistieken ophalen"
           }
         },
         "pl" : {
@@ -3036,7 +3036,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Statistieken Ophalen..."
+            "value" : "Statistieken ophalen..."
           }
         },
         "pl" : {
@@ -3483,7 +3483,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batterij Bijna Leeg Alarm"
+            "value" : "Batterij bijna leeg alarm"
           }
         },
         "pl" : {
@@ -4383,7 +4383,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commando's Testen"
+            "value" : "Commando's testen"
           }
         },
         "pl" : {
@@ -4532,7 +4532,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test Trillingen"
+            "value" : "Test trillingen"
           }
         },
         "pl" : {

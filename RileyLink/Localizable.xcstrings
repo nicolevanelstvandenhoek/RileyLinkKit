@@ -706,7 +706,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API Secret"
+            "value" : "API secret"
           }
         },
         "pl" : {
@@ -976,7 +976,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verwijder Account"
+            "value" : "Verwijder account"
           }
         },
         "pl" : {
@@ -2022,7 +2022,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink Testing"
+            "value" : "RileyLink testing"
           }
         },
         "pl" : {
@@ -2147,7 +2147,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omnipod Instellen"
+            "value" : "Omnipod instellen"
           }
         },
         "pl" : {
