@@ -3185,7 +3185,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rode LED Verlichten"
+            "value" : "Rode LED verlichten"
           }
         },
         "pl" : {
@@ -3334,7 +3334,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gele LED Verlichten"
+            "value" : "Gele LED verlichten"
           }
         },
         "pl" : {
@@ -4681,7 +4681,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tokkel de Diagnostische LED's"
+            "value" : "Tokkel de diagnostische LED's"
           }
         },
         "pl" : {

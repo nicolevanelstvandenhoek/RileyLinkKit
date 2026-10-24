@@ -2278,7 +2278,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Site URL"
+            "value" : "Website URL"
           }
         },
         "pl" : {
@@ -2416,7 +2416,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Instellen…"
+            "value" : "Tik om in te stellen"
           }
         },
         "pl" : {
